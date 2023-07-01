@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1682529039 source:f:\aadim\c-prog\travelmanagement\main.cpp
+	<iostream>
+	<ostream>
+	<fstream>
+	<conio.h>
+

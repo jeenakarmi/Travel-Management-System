@@ -1,0 +1,85 @@
+
+=============================================================
+Customer Name: Aadim 
+Number of people: 15
+Phone number: 986458231
+Booked item detail:- 
+	Title of itinerary: Pokhara Tour
+	Starting point: Bhaktapur
+	Destination: Pokhara
+	Days: 3
+	Expenses: 10000
+=============================================================
+
+=============================================================
+Customer Name: Jina
+Number of people: 14
+Phone number: 2147483647
+Booked item detail:- 
+	Title of itinerary: Phoksundo Trek
+	Starting point: Gongabu
+	Destination: Phoksundo Lake
+	Days: 10
+	Expenses: 18000
+=============================================================
+
+=============================================================
+Customer Name: Kiran
+Number of people: 10
+Phone number: 4294967295
+Booked item detail:- 
+	Title of itinerary: Phoksundo Trek
+	Starting point: Gongabu
+	Destination: Phoksundo Lake
+	Days: 10
+	Expenses: 18000
+=============================================================
+
+=============================================================
+Customer Name: Rajip
+Number of people: 10
+Phone number: 9861886233
+Booked item detail:- 
+	Title of itinerary: Pokhara Tour
+	Starting point: Bhaktapur
+	Destination: Pokhara
+	Days: 3
+	Expenses: 10000
+=============================================================
+
+=============================================================
+Customer Name: Aadim Prajapati
+Number of people: 10
+Phone number: 154236897979
+Booked item detail:- 
+	Title of itinerary: Pokhara Tour
+	Starting point: Bhaktapur
+	Destination: Pokhara
+	Days: 3
+	Expenses: 10000
+=============================================================
+
+=============================================================
+Customer Name: Aadim Prajapati
+Number of people: 10
+Phone number: 9861886233
+Booked item detail:- 
+	Title of itinerary: Pokhara Tour
+	Starting point: Bhaktapur
+	Destination: Pokhara
+	Days: 3
+	Expenses: 10000
+=============================================================
+
+=============================================================
+Customer Name: Aadim Prajapati
+Number of people: 10
+Departure Date: 2023/6/15
+Phone number: 9861886233
+Booked item detail:- 
+	Title of itinerary: Pokhara Tour
+	Starting point: Bhaktapur
+	Destination: Pokhara
+	Days: 3
+	Expenses: 10000
+=============================================================
